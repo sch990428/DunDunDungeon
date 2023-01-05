@@ -1,0 +1,7 @@
+﻿  DunDunDungeonClient.cpp
+C:\Users\99042\Desktop\DDD\DunDunDungeonClient\DunDunDungeonClient\DunDunDungeonClient.cpp(222,55): warning C4267: '인수': 'size_t'에서 'rapidjson::SizeType'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\99042\Desktop\DDD\DunDunDungeonClient\DunDunDungeonClient\DunDunDungeonClient.cpp(225,53): warning C4267: '인수': 'size_t'에서 'rapidjson::SizeType'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\99042\Desktop\DDD\DunDunDungeonClient\DunDunDungeonClient\DunDunDungeonClient.cpp(274,34): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\99042\Desktop\DDD\DunDunDungeonClient\DunDunDungeonClient\DunDunDungeonClient.cpp(363,51): warning C4267: '인수': 'size_t'에서 'rapidjson::SizeType'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\99042\Desktop\DDD\DunDunDungeonClient\DunDunDungeonClient\DunDunDungeonClient.cpp(369,41): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DunDunDungeonClient.vcxproj -> C:\Users\99042\Desktop\DDD\DunDunDungeonClient\x64\Debug\DunDunDungeonClient.exe
